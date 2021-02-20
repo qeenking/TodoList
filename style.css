@@ -7,10 +7,6 @@ body{
     color: azure;
 }
 
-li{
-    font-size: 160%;
-}
-
 .form{
     display: none;
 }
